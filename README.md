@@ -1,4 +1,4 @@
-# Spam SMS Classification - Deployment
+### Spam SMS Classification - Deployment
 
 
 • This repository consists of files required to deploy a ___Machine Learning Web App
